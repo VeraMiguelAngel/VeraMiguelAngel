@@ -7,8 +7,15 @@ React · Next.js · NestJS · TypeScript · TailwindCSS
 ---
 
 ## 🚀 Sobre mí
-Soy **Desarrollador Full Stack Junior**, enfocado en construir soluciones con **frontend elegante** y **backend robusto**.  
+Soy Desarrollador Full Stack Junior, formado en el Bootcamp Henry y en la Tecnicatura Universitaria en Programación (UTN).  
+Me especializo en construir soluciones con **frontend elegante (React + Next.js)** y **backend robusto (NestJS, TypeORM, PostgreSQL, JWT, Cloudinary)**.  
+
+He desarrollado proyectos integradores que abarcan:
+- **Ecommerce completo**: frontend con Next.js y backend con NestJS, documentado con Swagger.  
+- **Aplicación de películas**: backend con MongoDB y Mongoose, explorando arquitecturas NoSQL y gestión avanzada de datos.  
+
 Me apasiona la **UI/UX minimalista**, la optimización de flujos colaborativos y la creación de experiencias digitales cálidas y profesionales.  
+Además, disfruto integrar buenas prácticas de documentación, despliegue en la nube y branding técnico en cada proyecto.  
 
 ---
 
