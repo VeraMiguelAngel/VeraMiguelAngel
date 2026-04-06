@@ -28,15 +28,16 @@ Me apasiona la **UI/UX minimalista**, la optimización de flujos colaborativos y
 
 ## 📂 Proyectos destacados
 
-### 🍷 Montevino-Front
-Frontend para la gestión de reservas gastronómicas.  
-Construido con **React, Next.js y TailwindCSS**, ofrece una experiencia elegante y cálida para usuarios y administradores.  
-👉 [Repositorio](https://github.com/VeraMiguelAngel/Montevino-Front)
+### 🍷 Montevino
+Proyecto integrador grupal del Bootcamp Henry.  
+Plataforma para gestión de reservas gastronómicas, desarrollada con **React, Next.js, NestJS, Node.js y TypeScript**.  
 
-### 🍷 Montevino-Back
-Backend robusto desarrollado con **NestJS, Node.js y TypeScript**.  
-Automatiza procesos y asegura integridad en la gestión de reservas y platos.  
-👉 [Repositorio](https://github.com/VeraMiguelAngel/Montevino-Back)
+**Mi rol:**  
+- Desarrollo de componentes funcionales en el frontend.  
+- Configuración y despliegue del frontend en **Vercel**.  
+- Configuración y despliegue del backend en **Render**.  
+
+👉 [Repositorio del equipo](https://github.com/montevinoPF)
 
 ---
 
