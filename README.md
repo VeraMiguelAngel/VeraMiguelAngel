@@ -1,8 +1,8 @@
-# 👋 Hola, soy Miguel Ángel Vera
+# 👋 Hola, soy Miguel Angel Vera
 
 ### Desarrollador Full Stack Junior  
 React · Next.js · NestJS · TypeScript · TailwindCSS  
-📍 González Catán, Buenos Aires, Argentina  
+📍 Buenos Aires, Argentina.
 
 ---
 
