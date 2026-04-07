@@ -56,6 +56,9 @@ Plataforma para gestión de reservas gastronómicas, desarrollada con **React, N
 
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-angel-vera-lopez/)
+## 📫 
+[![Email](https://img.shields.io/badge/Email-miguel__vera__a%40yahoo.com.ar-blue?style=flat-square&logo=gmail)](mailto:miguel_vera_a@yahoo.com.ar)
+
 
 ---
 
